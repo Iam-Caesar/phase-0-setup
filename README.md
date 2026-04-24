@@ -1,4 +1,4 @@
-# Phase 0 Setup
+# PHASE ZERO
 
 ## Project
 Project Phoenix — Zero to Platform / SRE / DevSecOps roadmap.
